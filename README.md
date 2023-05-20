@@ -1,8 +1,5 @@
 # **ExcelR - Data Science Assignments**
 
-
-### **Data Science Assignment**
-
 ***
 ##### **`Name:- Kunal Doshi`**
 ##### **`Email:- kunaldoshi.1897@gmail.com`**
