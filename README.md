@@ -10,7 +10,7 @@
 
 
 1. Basic Statistics_Level 1
-    * [Basic Statistics_Level 1.docx]([https://docs.google.com/document/d/1PjKuBPHbP7eK_G0ASYwC07TCfj1Ld1SI/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/1.%20Basic%20Statistics_Level-1/Basic%20Statistics_Level%201.docx))
+    * [Basic Statistics_Level 1.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/1.%20Basic%20Statistics_Level-1/Basic%20Statistics_Level%201.docx)
     
 
  2. Basic Statistics_Level 2
