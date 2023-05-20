@@ -7,12 +7,12 @@
 
 
 
-
+---
 
 1. Basic Statistics_Level 1
     * [Basic Statistics_Level 1.docx](https://docs.google.com/document/d/1PjKuBPHbP7eK_G0ASYwC07TCfj1Ld1SI/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
     
-    
+ ---
  2. Basic Statistics_Level 2
     * [Set 1_Descriptive statistics Probability (2).docx](https://docs.google.com/document/d/1B8eHLEm3O7UpUXHJAYYFSmdqoGIzgvet/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
     * [Set 2_Normal Distribution Functions of random variables.docx](https://docs.google.com/document/d/1IdRmt-6RMPhx9RcNrwc4vHWpR9-b9KMl/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
