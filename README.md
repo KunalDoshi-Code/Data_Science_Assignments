@@ -1,2 +1,2 @@
-# **Data_Science_Assignments**
-ExcelR - Data Science Assignment 
+# **ExcelR - Data Science Assignments**
+
