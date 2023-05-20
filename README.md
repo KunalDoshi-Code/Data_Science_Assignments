@@ -21,8 +21,10 @@
     
     
  3. Hypothesis Testing
-    * [Cutlets.ipynb](https://colab.research.google.com/drive/1lgr7CN_YFiIIOtXwqLiZt8KTGDy_kvFA?usp=sharing)
-    * [LabTAT.ipynb](https://colab.research.google.com/drive/17zApIIdUk_Gkcysp5nuMc6Wc5jVuJonK?usp=sharing)
+    * [Cutlets.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypostasis-cutlets-assignment.ipynb)
+    * [LabTAT.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypothesis-labtat.ipynb)
+    * [Buyer_Ratio.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypothesis-buyer-ratio.ipynb)
+    * [Customer-Order-form-assignment.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/3.%20Hypothesis%20Teasting/hypostasis-Customer-Order-form-assignment.ipynb)
     
     
  4. Simple Linear Regression
