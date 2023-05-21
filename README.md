@@ -56,47 +56,47 @@
     
     
  10. Recommendation system
-    * [Recommendation system.ipynb](https://colab.research.google.com/drive/1j6d35cQywkDN7vplOoOexgDgTV-FFE-m?usp=sharing)
+     * [Recommendation system.ipynb](https://colab.research.google.com/drive/1j6d35cQywkDN7vplOoOexgDgTV-FFE-m?usp=sharing)
     
     
  11. Text Mining
-    * [text-mining-amazon-review-extract.ipynb](https://colab.research.google.com/drive/1lmJncDlIjW0j3RJqu6D9xUurmkrIl4KH?usp=sharing)
-    * [text-mining-emotion-analysis-on-amazon-review.ipynb](https://colab.research.google.com/drive/1zl3_KWAE16xWZdEbeKx6sW6WDfaujbxd?usp=sharing)
-    * [text-mining-sentiment-analysis-on-elon-musk-tweet.ipynb](https://colab.research.google.com/drive/1iEJtQzUHSQ_heiD_vDMKD9SS0oTZQkz2?usp=sharing)
+     * [text-mining-amazon-review-extract.ipynb](https://colab.research.google.com/drive/1lmJncDlIjW0j3RJqu6D9xUurmkrIl4KH?usp=sharing)
+     * [text-mining-emotion-analysis-on-amazon-review.ipynb](https://colab.research.google.com/drive/1zl3_KWAE16xWZdEbeKx6sW6WDfaujbxd?usp=sharing)
+     * [text-mining-sentiment-analysis-on-elon-musk-tweet.ipynb](https://colab.research.google.com/drive/1iEJtQzUHSQ_heiD_vDMKD9SS0oTZQkz2?usp=sharing)
     
     
  12. Naive Bayes
-    * [Naive Bayes.ipynb](https://colab.research.google.com/drive/1mBAeZp9n0J2te5fzDSoy7y-gMpZZZx1T?usp=sharing)
+     * [Naive Bayes.ipynb](https://colab.research.google.com/drive/1mBAeZp9n0J2te5fzDSoy7y-gMpZZZx1T?usp=sharing)
     
     
  13. KNN
-    * [knn-glass-classification.ipynb](https://colab.research.google.com/drive/1EKxKz2GT7mmPJh78D7vlOL3gaQhTm9o8?usp=sharing)
-    * [knn-classify-the-animals-in-to-categories.ipynb](https://colab.research.google.com/drive/1F-IqN46MEfn4vZosDLOWzXyQEbZOZ0g7?usp=sharing)
+     * [knn-glass-classification.ipynb](https://colab.research.google.com/drive/1EKxKz2GT7mmPJh78D7vlOL3gaQhTm9o8?usp=sharing)
+     * [knn-classify-the-animals-in-to-categories.ipynb](https://colab.research.google.com/drive/1F-IqN46MEfn4vZosDLOWzXyQEbZOZ0g7?usp=sharing)
     
     
  14. Decision Trees
-    * [Decision-tree-company-high-sale.ipynb](https://colab.research.google.com/drive/1L3v_F0lYsxO1Ja4UHK3T7ZnUDCADCtHA?usp=sharing)
-    * [Decision-trees-fraud-check.ipynb](https://colab.research.google.com/drive/197qzFGt4QGddvTP7fYTD5Qh-bSZF4ajH?usp=sharing)
+     * [Decision-tree-company-high-sale.ipynb](https://colab.research.google.com/drive/1L3v_F0lYsxO1Ja4UHK3T7ZnUDCADCtHA?usp=sharing)
+     * [Decision-trees-fraud-check.ipynb](https://colab.research.google.com/drive/197qzFGt4QGddvTP7fYTD5Qh-bSZF4ajH?usp=sharing)
     
     
  15. Neural Networks
-    * [Neural-networks-forest-fire.ipynb](https://colab.research.google.com/drive/1JJlbQKLVaPHD93NatmkfJ_TVUAqprHsy?usp=sharing)
-    * [Neural-network-gas-turbine.ipynb](https://colab.research.google.com/drive/1dhAhdLvSe7N69AJu16gPlvme8hUVfhki?usp=sharing)
+     * [Neural-networks-forest-fire.ipynb](https://colab.research.google.com/drive/1JJlbQKLVaPHD93NatmkfJ_TVUAqprHsy?usp=sharing)
+     * [Neural-network-gas-turbine.ipynb](https://colab.research.google.com/drive/1dhAhdLvSe7N69AJu16gPlvme8hUVfhki?usp=sharing)
     
     
  16. Ramdon-Forest
-    * [Random-forests-company-high-sale.ipynb](https://colab.research.google.com/drive/13qENekMkJg9YL26ZOV6d3Rbs53buvoN3?usp=sharing)
-    * [Random-forests-fraud-check.ipynb](https://colab.research.google.com/drive/1jGZkiPooENMuYRjt9UVjy5SONjbq5OSF?usp=sharing)
+     * [Random-forests-company-high-sale.ipynb](https://colab.research.google.com/drive/13qENekMkJg9YL26ZOV6d3Rbs53buvoN3?usp=sharing)
+     * [Random-forests-fraud-check.ipynb](https://colab.research.google.com/drive/1jGZkiPooENMuYRjt9UVjy5SONjbq5OSF?usp=sharing)
     
     
  17. Support Vector Machines
-    * [Support-vector-machine-forest-fire.ipynb](https://colab.research.google.com/drive/1d7itOQHLXJBNIug8NwCb9Cxkp5K3-CeS?usp=sharing)
-    * [Support-vector-machines-salary-data.ipynb](https://colab.research.google.com/drive/1Z2TZOnkUjK3tDOxCbQdISBlEs89BB75Z?usp=sharing)
+     * [Support-vector-machine-forest-fire.ipynb](https://colab.research.google.com/drive/1d7itOQHLXJBNIug8NwCb9Cxkp5K3-CeS?usp=sharing)
+     * [Support-vector-machines-salary-data.ipynb](https://colab.research.google.com/drive/1Z2TZOnkUjK3tDOxCbQdISBlEs89BB75Z?usp=sharing)
     
     
  18. Forecasting
-    * [forecasting-airlines-passengers.ipynb](https://colab.research.google.com/drive/1og16mB7rel9x5s2isSgVzPXCk3QSgGLT?usp=sharing)
-    * [forecasting CocaCola Data.ipynb](https://colab.research.google.com/drive/1EZNZIxYwnewVHfVa9euRHS_-RVsdMGRR?usp=sharing)
+     * [forecasting-airlines-passengers.ipynb](https://colab.research.google.com/drive/1og16mB7rel9x5s2isSgVzPXCk3QSgGLT?usp=sharing)
+     * [forecasting CocaCola Data.ipynb](https://colab.research.google.com/drive/1EZNZIxYwnewVHfVa9euRHS_-RVsdMGRR?usp=sharing)
     
   
   
