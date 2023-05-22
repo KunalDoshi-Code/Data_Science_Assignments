@@ -14,10 +14,13 @@
     
 
  2. Basic Statistics_Level 2
-    * [Set 1_Descriptive statistics Probability (2).docx](https://docs.google.com/document/d/1B8eHLEm3O7UpUXHJAYYFSmdqoGIzgvet/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
-    * [Set 2_Normal Distribution Functions of random variables.docx](https://docs.google.com/document/d/1IdRmt-6RMPhx9RcNrwc4vHWpR9-b9KMl/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
-    * [Set 3.docx](https://docs.google.com/document/d/1qFVF-49m9LQyZ6-8xUPcLoB6t3Yev1Z0/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
-    * [Set 4.docx](https://docs.google.com/document/d/1W7CgwWr8rXifAYJvmnB5wDCBnopNtBx6/edit?usp=share_link&ouid=110615952392936282942&rtpof=true&sd=true)
+    * [Set 1_Descriptive statistics Probability (2).docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B1_Descriptive%2Bstatistics%2BProbability%2B(2).docx)
+    * [Set_1.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-1.ipynb)
+    * [Set 2_Normal Distribution Functions of random variables.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B2_Normal%2BDistribution%2BFunctions%2Bof%2Brandom%2Bvariables.docx)
+    * [Set 2_Normal Distribution Functions of random variables.ipynb](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-2-normal-distribution.ipynb)
+    * [Set 3.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B3.doc)
+    * [Set 4.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/Set%2B4.docx.doc)
+    * [Set 4.docx](https://github.com/KunalDoshi-Code/Data_Science_Assignments/blob/main/Assignments/2.%20Basic%20Statistics_Level-2/set-4.ipynb)
     
     
  3. Hypothesis Testing
